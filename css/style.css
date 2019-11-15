@@ -34,7 +34,7 @@ p,h2{ font-family: 'Homemade Apple', cursive;
 
 .fullscreen-img-2{
   /* The image used */
-  background-image: url("../img/farm-photo.jpeg");
+  background-image: url();
 
   /* Full height */
   height: 100%;
@@ -44,6 +44,16 @@ p,h2{ font-family: 'Homemade Apple', cursive;
   background-repeat: no-repeat;
   background-size: cover;
 }
+.fullscreen-img-3{
+  background-image:url("../img/farm-photo.jpeg");
+    height:100%;
+    width:100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
 
 black
 /* full screen video*/
